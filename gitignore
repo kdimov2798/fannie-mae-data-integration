@@ -1,0 +1,22 @@
+# Raw data files (too large for GitHub)
+*.csv
+*.txt
+*.zip
+/data/raw/
+/data_dictionary/*.csv
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Credentials (if any)
+*credentials*.json
+*config*.ini
